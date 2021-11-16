@@ -2,7 +2,7 @@
  "name": "Aprendiendo a cocinar",
  "short_name": "Aprende a cocinar",
  "lang": "es-ES",
- "start_url": "/index.html",
+ "start_url": "../index.html",
  "background_color": "#FFFFFF",
  "theme_color": "#dc143c",
  "display": "standalone",
